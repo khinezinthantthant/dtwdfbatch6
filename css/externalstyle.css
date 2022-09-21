@@ -1,0 +1,31 @@
+/*Selectors */
+/*Element Selector */
+/*ID Selector */
+/*Class Selector */
+/*Group Selector(,) */
+
+/*Single Selector */
+h1{
+	color: blue;
+}
+
+/*Group Selector */
+h2,h3,h4{
+	color: green;
+}
+span{
+	color: red;
+}
+.ph{
+	color: green;
+}
+.f30{
+	font-size: 30px;
+}
+.hay{
+	color: red;
+	font-size: 20px;
+}
+.hi{
+	color: blue;
+}
